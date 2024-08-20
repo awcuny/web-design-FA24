@@ -4,13 +4,14 @@
 Instructor: Antonius Wiriadjaja
 Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu ) 
 
+[Slack Channel](https://qc-design.slack.com/archives/C07H6BMBFAQ)
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLKcBOqBHPjvkhFYe6otAxPHwExQEFmC8c)
 
 ### Class Schedule
 
 Class times: Fridays, 10:00 am - 01:50 pm
 
-- Week 1, August 30, Introductions [Live Zoom Call](link)
+- Week 1, August 30, Introductions [Live Zoom Call](https://us02web.zoom.us/j/88550250169?pwd=aarkIEWL6fSN06XbLaBQyGsiloIFtB.1)
 - Week 2, September 6
 - Week 3, September 13
 - Week 4, September 20
@@ -18,14 +19,14 @@ Class times: Fridays, 10:00 am - 01:50 pm
 - Break, October 4 (No class)
 - Break, October 11 (No class)
 - Week 6, October 18
-- Week 7, October 25, Midterm Presentations [Live Zoom Call](link)
+- Week 7, October 25, Midterm Presentations [Live Zoom Call](https://us02web.zoom.us/j/88550250169?pwd=aarkIEWL6fSN06XbLaBQyGsiloIFtB.1)
 - Week 8, November 1
 - Week 9, November 8
 - Week 10, November 15
 - Week 11, November 22
 - Thanksgiving, November 29 (no class)
 - Week 13, December 6
-- Week 14, December 13, Final Class Live Zoom Call 
+- Week 14, December 13, Final Class [Live Zoom Call](https://us02web.zoom.us/j/88550250169?pwd=aarkIEWL6fSN06XbLaBQyGsiloIFtB.1)
 - Reading Day, December 20 (no class)
 
 ### Course Description
@@ -42,11 +43,20 @@ At the end of the semester each student will have a complete website built using
 Students will learn the basics of user experience design and user interface design when it comes to designing a website. They will become comfortable using such platforms like Adobe Illustrator, Adobe Photoshop and potentially Sketch App and Figma. They will also have a solid understanding on how to program a website using HTML and CSS as well as some JavaScript.
 
 ### Course Requirements
-Class participation is mandatory. You are expected to be present, to participate in a positive, constructive manner, and to produce work that is full of energy, completed and presented to the best of your ability.
+Class participation is mandatory. You are expected to be present, to participate in a positive, constructive manner, and to produce work that is full of energy, completed and presented to the best of your ability. **We will be meeting live via zoom during the first class, midterm presentations, and final presentations. Students are expected to be active on the Slack channel during other classtimes.**
 
 It is your responsibility to turn in work on time, to make up any missed assignments, and to catch up with the class in the event of an absence. Late work is unacceptable; however, this work can be turned in for partial credit. If you know you are going to be absent, contact the professor by email in advance. For the most up-to-date information (including what is due next class) visit [the class website](https://awcuny.github.io/web-design-FA24/). 
 
 This is a hands-on course and regular attendance is necessary for participation. You will be graded on in-class participation. If you know you are going to be absent, contact the professor by email in advance. Students who miss numerous classes will find it difficult to pass the course. Visual assignments and projects will be graded based on: one for technical merit, concept and your demonstrated ability to understand the code. Your final grades will be calculated by the following: 80% project, 20% participation. You are expected to spend as much time working outside the classroom as you work inside the classroom. Schedule your time accordingly.
+
+### AI Policy
+Understanding how and when to use generative AI tools (such as ChatGPT, Gemini, or Claude) is quickly emerging as an important skill for future professions. In fact, it's even built-in to some search engines and even web browsers! To that end, you are welcome to use generative AI tools in this class as long as it aligns with the learning outcomes or goals associated with assignments. You are fully responsible for the information you submit based on a generative AI query (such that it does not violate academic honesty standards, intellectual property laws, or standards of non-public research you are conducting through coursework). Your use of generative AI tools must be properly documented and cited for any work submitted in this course.
+
+In this course, students shall give credit to AI tools whenever used, even if only to generate ideas rather than usable text or illustrations. When using AI tools on assignments, add an appendix showing (a) the entire exchange, highlighting the most relevant sections; (b) a description of precisely which AI tools were used (e.g. ChatGPT private subscription version or DALL-E free version), (c) an explanation of how the AI tools were used (e.g. to generate ideas, turns of phrase, elements of text, long stretches of text, help troubleshoot code, etc.); (d) an account of why AI tools were used (e.g. to save time, to surmount writer’s block, to make non-copyrighted imagery, to translate text, to experiment for fun, etc.). Students shall not use AI tools during in-class examinations, or assignments unless explicitly permitted and instructed. Overall, AI tools should be used wisely and reflectively with an aim to deepen understanding of subject matter.
+
+It is a violation of university policy to misrepresent work that you submit or exchange with your instructor by characterizing it as your own, such as submitting responses to assignments that do not acknowledge the use of generative AI tools. Please feel free to reach out to me with any questions you may have about the use of generative AI tools before submitting any content that has been substantially informed by these tools.
+
+And also - don't forget, you are here to learn. If you rely heavily or completely on these AI tools to do your work for you, please ask yourself why you are enrolled in this course. And be aware that AI is an emerging technology. AI systems can provide helpful information or suggestions, but they are not always reliable or accurate. Students should critically evaluate the sources, methods, and outputs of AI systems. If you have any questions about this policy or if you are unsure whether a particular use of AI is acceptable, please do not hesitate to ask for clarification
 
 ### Textbook
 - [HTML & CSS](http://htmlandcssbook.com/buy/) by Jon Duckett
