@@ -1,5 +1,5 @@
 # Web Design I (Online Section)
-### DESN 214 - CUNY Queens College
+### DESN 214, Section 004 - CUNY Queens College
 
 Instructor: Antonius Wiriadjaja
 Email: [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edu ) 
