@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+remote_theme: BDHU/minimalist
+title: Web Design 1 Fall 2024 Online
+description: The website for Web Design 1 Fall 2024 Online
+
+sidebar:
+  - name: Home Page (syllabus)
+    link: ./
