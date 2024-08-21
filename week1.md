@@ -11,19 +11,20 @@ For our first class, we will introduces ourselves, cover the course syllabus, an
 
 ### Resources
 1. [HTML & CSS](https://htmlandcssbook.com/buy/) by Jon Duckett
-2. [Professor Antonius's Lecture Slides](link)
+2. [Professor Antonius's Lecture Slides](https://docs.google.com/presentation/d/1pM5Cs43S41d7889nT7OZ8KWi8dSSR0CnnkfYuIJVA9E/edit?usp=sharing)
 3. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week01/webdesign_week01.pdf)
 
 
 ### In-Class Assignment
-1. Sign up for Slack
-2. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
+1. In groups of three, discuss and answer the questions at the end of prof Antonius's lecture slides.
+2. Sign up for Slack
+3. Send an email using the email address you plan to use for Slack to [antonius.wiriadjaja@qc.cuny.edu](mailto:antonius.wiriadjaja@qc.cuny.edul)
 
 ### Homework
 1. Order the textbook
-3. Sign up for Slack using the join link shared in zoom.
-4. Set up a blog for this class.
-5. Create a blog post sharing your favorite website and why.
+2. Set up a blog for this class (medium or wordpress).
+3. Create a blog post sharing your favorite website and why.
+4. Sign up for Slack and join our channel.
 6. Add the link to your blog post to the Slack class channel.
 7. Watch Prof. Danne Woo's [week 2 lecture video](https://youtu.be/cIrdhTAhuHw?si=Itx_rBoMCaqeV5jK) and come with questions to our Slack class next week.
 
