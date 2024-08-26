@@ -20,6 +20,8 @@ Then, we will cover what market analysis and competitive visual audits are. The 
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week02/webdesign_week02.pdf)
+2. [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
+3. [GoFullPage Chrome Plugin](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
 
 ### In-Class Assignment
