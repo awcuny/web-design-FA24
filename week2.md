@@ -41,22 +41,22 @@ Do market analysis for your selected company and then do a visual audit of one o
 ### Homework
 1. Make a Blog Post of the Market Analysis and Visual Audit In this blog post, you'll share the market analysis and visual audit you conducted in class. Don’t forget to include the following elements:
 
-a. **Define the Market**  
+  - **Define the Market**  
    Provide a brief overview of the market you're analyzing.
 
-b. **User Archetypes**  
+  - **User Archetypes**  
    Describe the user archetypes relevant to your analysis.
 
-c. **Identify Competitors**  
+  - **Identify Competitors**  
    List the competitors you've identified within the market.
 
-d. **Screengrabs of the Competitors’ Websites**  
+  - **Screengrabs of the Competitors’ Websites**  
    Include screenshots of the competitors' websites to support your analysis.
 
-e. **Pick One Competitor and Draw Their Grid**  
+  - **Pick One Competitor and Draw Their Grid**  
    Choose one competitor and draw their grid, either on paper or using software.
 
-f. **Identify Color Palette, Typefaces, and Media**  
+  - **Identify Color Palette, Typefaces, and Media**  
    Analyze and document the color palette, typefaces, and media used by the competitors.
 
 2. Consider what website you would like to create for this class midterm and final. I highly suggest a portfolio site if you do not have one yet.
