@@ -64,4 +64,6 @@ Do market analysis for your selected company and then do a visual audit of one o
 2. Consider what website you would like to create for this class midterm and final. I highly suggest a portfolio site if you do not have one yet.
 
 3. Be ready to come to class next week to discuss ideas for your website.
+
+
 [back](./)
