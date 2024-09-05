@@ -9,6 +9,8 @@ We will be meeting [over zoom](https://us02web.zoom.us/j/88550250169?pwd=aarkIEW
 ### Lecture
 For our first class, we will introduces ourselves, cover the course syllabus, and review the requirements for our entire semester. We will discuss the importance of the four Ds: Discover, Define, Design and Develop. This class will be recorded.
 
+[Recorded Zoom Call](https://www.dropbox.com/scl/fi/muh7q3bavy6hr20hphe5q/webdesign1-f24-introductions.mp4?rlkey=ay00g5mkmeqoumy6ts48sbxtk&dl=0)
+
 ### Resources
 1. [HTML & CSS](https://htmlandcssbook.com/buy/) by Jon Duckett
 2. [Professor Antonius's Lecture Slides](https://docs.google.com/presentation/d/1pM5Cs43S41d7889nT7OZ8KWi8dSSR0CnnkfYuIJVA9E/edit?usp=sharing)
