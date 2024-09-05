@@ -16,12 +16,15 @@ Then, we will cover what market analysis and competitive visual audits are. The 
 
 ### Lecture Video
 
-[Please watch the video on YouTube](https://www.youtube.com/watch?v=cIrdhTAhuHw)
+[Please watch Prof Danne's video on YouTube](https://www.youtube.com/watch?v=cIrdhTAhuHw)
+[Addendum video by Prof Antonius](https://www.loom.com/share/cb490b48955b4c22bd571eb7b2a5b30c?sid=f7964670-ee24-44d5-8b62-4ad71ece1534)
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week02/webdesign_week02.pdf)
 2. [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
 3. [GoFullPage Chrome Plugin](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
+4. [Craiyon AI img generator](craiyon.com)
+5. [DALLE-3](https://openai.com/index/dall-e-3/)
 
 
 ### In-Class Assignment
