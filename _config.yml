@@ -10,6 +10,8 @@ description: The website for Web Design 1 Fall 2024 Online
 sidebar:
   - name: Home Page (syllabus)
     link: ./
+  - name: Student Blogs
+    link: ./students
   - name: Week 1 - Introductions
     link: ./week1
   - name: Week 2 - Audits and Analysis
