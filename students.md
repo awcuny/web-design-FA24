@@ -6,8 +6,8 @@ layout: default
 
 Below are the students in the class and their blog links
 
-- Yunin - no blog yet
-- Eli - no blog yet
+- [Yunin](https://yuninbarbas.wordpress.com/)
+- [Eli](https://eboord.blog/)
 - [Michele's blog](https://deathdiscoqcdesn214blog.wordpress.com/)
 - [Maddy's blog](https://maddycdesn214blog.wordpress.com/)
 - [Yuyin's blog](https://medium.com/@yuyin040621)
