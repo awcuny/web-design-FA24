@@ -40,6 +40,7 @@ Once you have a logo or logotype for your website, share with the Slack channel 
 ### Homework
 1. Design three distinct versions of your website's homepage using the 960 grid system. Explore different color schemes, typefaces, hierarchy, grids, images, icons, and other elements. You may use the photoshop example above or the placeit website to get started.
 2. Once you've completed all three designs, upload JPEG images of them to your blog, along with a brief explanation of the concept and inspiration behind each design.
-3. Read Chapter 1 (Structure) of the HTML & CSS book.
+3. Prepare a presentation of your three websites using [Loom](loom.com/), [Synthesia](https://www.synthesia.io/), or by recording a video.
+4. Read Chapter 1 (Structure) of the HTML & CSS book.
 
 [back](./)
