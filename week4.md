@@ -8,7 +8,7 @@ We will be meeting in our [Private Slack channel](https://join.slack.com/t/qc-de
 
 ### Lecture
 
-In this class, we'll have an overview lecture on graphic design, covering topics such as form, color theory, typography, grid structures, and logos. Additionally, we'll conduct a Photoshop workshop to explore its optimal use in website design.
+In this class, we'll have an overview lecture on graphic design, covering topics such as form, color theory, typography, grid structures, and logos. Additionally, we'll conduct a Photoshop workshop to explore its optimal use in website design. You should by the end of this lecture have enough to get started on designing a logo and a homepage to get you started on your website!
 
 There is an in-class as well as a homework assignment, which you can find below.
 
