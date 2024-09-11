@@ -37,7 +37,9 @@ There is an in-class as well as a homework assignment, which you can find below.
 
 
 ### Homework
-1. Make a blog post of the website structure research, sitemap, and wireframe you did during class. Don’t forget to answer the questions:
+Last week you had to make a blog post of the market analysis and the visual audit of your company's competitor. This week it's time to explore **your company's** Market Analysis and Visual Audit. For example, if you chose Apple last week, you may have explored its competition like Samsung. This week you will analyze the company's website.
+
+1. Make a blog post of your company's website structure research, sitemap, and wireframe you did during class. Don’t forget to answer the questions:
   - Who is the site for?
   - Why do people visit your site?
   - What are your visitors trying to achieve?
