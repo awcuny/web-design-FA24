@@ -52,7 +52,7 @@ Last week you had to make a blog post of the market analysis and the visual audi
   - What information do your visitors need?
   - How often do people visit your site?
 2. In the same blog post, list three websites you think are nicely designed with an explanation why.
-3. Collect some images, colors, types, layouts and anything else that will inspire you to design your website. Be ready to come to class next week to create a mood board of your inspirations.
+3. Collect some images, colors, types, layouts and anything else that will inspire you to design the website you want to build for yourself for this class. Be ready to come to class next week to create a mood board of your inspirations.
 4. Read Chapter 18 (Process & Design) of the HTML & CSS book 
 
 
