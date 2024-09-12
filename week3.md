@@ -14,12 +14,18 @@ There is an in-class as well as a homework assignment, which you can find below.
 
 ### Lecture Video
 
-[Please watch the video on YouTube](https://youtu.be/QKcN_z8rm3U?si=AMrkxnHDREj5cTGG)
+[Please watch Prof Danne's Week 3 video on YouTube](https://youtu.be/QKcN_z8rm3U?si=AMrkxnHDREj5cTGG)
+[And Prof Antonius's Update Video on Loom](https://www.loom.com/share/ba7a2095e04b497e92653b184071f975?sid=5f11c8c8-22c2-47f2-96df-e40429bc5445)
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week03/webdesign_week03.pdf)
 2. [Sitemap Template](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week03/qc_sitemap_good.pdf)
 3. [Wireframe Template](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week03/qc_wireframe.pdf)
+
+Optional:
+
+1. [UX Pilot](https://uxpilot.ai/)
+2. [UIzard](https://uizard.io/)
 
 ### In-Class Assignment
 1. Apply what you learned during the lecture to the company’s website that you chose last week.For example, if your client is Queens College, ask the questions to help structure your website, and then create a sitemap and wireframe of QC’s existing website. You are welcome use the templates above (sitemap and wireframe).
