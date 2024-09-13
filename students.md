@@ -8,7 +8,7 @@ Below are the students in the class and their blog links
 
 - [Yunin](https://yuninbarbas.wordpress.com/)
 - [Eli](https://eboord.blog/)
-- [Michele's blog](https://deathdiscoqcdesn214blog.wordpress.com/)
+- [Michele's blog](https://deathdisco93.wordpress.com/)
 - [Maddy's blog](https://maddycdesn214blog.wordpress.com/)
 - [Yuyin's blog](https://medium.com/@yuyin040621)
 - [Kim's blog](https://medium.com/@kim.rose.cruz22)
