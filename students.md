@@ -15,7 +15,7 @@ Below are the students in the class and their blog links
 - [Roman's blog](https://medium.com/@roman.delacruz32)
 - [Dina's blog](https://medium.com/@dinalasker1)
 - [Wenyu's blog](https://medium.com/@wenyu.li72)
-- Xinyi - no blog yet
+- [Xinyi's blog](https://medium.com/@xinyili682003)
 - [H E's blog](https://medium.com/@he.mandiv43)
 - [Connie's blog](https://conniemenenendez.wordpress.com/)
 - [Aasha's blog](https://medium.com/@aasha.mukhtar35)
