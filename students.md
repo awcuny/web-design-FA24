@@ -13,7 +13,7 @@ Below are the students in the class and their blog links
 - [Yuyin's blog](https://medium.com/@yuyin040621)
 - [Kim's blog](https://medium.com/@kim.rose.cruz22)
 - [Roman's blog](https://medium.com/@roman.delacruz32)
-- [Dina's blog](https://undinayable.wordpress.com/)
+- [Dina's blog](https://medium.com/@dinalasker1)
 - [Wenyu's blog](https://medium.com/@wenyu.li72)
 - Xinyi - no blog yet
 - [H E's blog](https://medium.com/@he.mandiv43)
