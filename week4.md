@@ -13,10 +13,11 @@ In this class, we'll have an overview lecture on graphic design, covering topics
 There is an in-class as well as a homework assignment, which you can find below.
 
 ### Lecture Videos
+Please watch:
 
-[Please watch the Week 4 video on YouTube](https://youtu.be/IYNUCSevrzc?si=Y9Ehu42BVbh4rl8x)
-
-[Please watch Prof Danne's Adobe XD Demo on YouTube](https://youtu.be/JeXMw6HZTCo?si=Im6HkQO3DsvIGDBW)
+- [Prof Danne's Week 4 video on YouTube](https://youtu.be/IYNUCSevrzc?si=Y9Ehu42BVbh4rl8x)
+- [Prof Danne's Adobe XD Demo on YouTube](https://youtu.be/JeXMw6HZTCo?si=Im6HkQO3DsvIGDBW)
+- [Prof Antonius's update on Loom](https://www.loom.com/share/c0ed88b64d234aa58181b2c1dbf512c1?sid=fef0ddb7-939a-4145-99a7-4f82cd9a8c44)
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week04/webdesign_week04_spring16.pdf)
