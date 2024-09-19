@@ -18,6 +18,7 @@ Please watch:
 - [Prof Danne's Week 4 video on YouTube](https://youtu.be/IYNUCSevrzc?si=Y9Ehu42BVbh4rl8x)
 - [Prof Danne's Adobe XD Demo on YouTube](https://youtu.be/JeXMw6HZTCo?si=Im6HkQO3DsvIGDBW)
 - [Prof Antonius's update on Loom](https://www.loom.com/share/c0ed88b64d234aa58181b2c1dbf512c1?sid=fef0ddb7-939a-4145-99a7-4f82cd9a8c44)
+- [Prof Antonius's Illustrator Demo](https://www.loom.com/share/097283e4433341c8a10b1f62cb5861b2?sid=5045db06-c1d5-4b1d-a75a-48835da82237)
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week04/webdesign_week04_spring16.pdf)
@@ -27,6 +28,9 @@ Please watch:
 5. [Figma](https://www.figma.com/)
 6. [Sketch](https://www.sketch.com/)
 7. [Invision](https://www.invisionapp.com/)
+8. [Lummi](https://www.figma.com/community/plugin/1326615072959029075/lummi)
+9. [Synthesia](https://www.synthesia.io/)
+10. [Designing Logos with Grid on Illustrator](https://youtu.be/-M2qN-tC8i8?si=hoWdPMN4yo1Zlz4G)
 
 ### In-Class Assignment
 Let's get started on the website you are going to build for the semester! First, during class, create a logo or logotype for your website using Adobe Illustrator. Begin by exploring your name or company’s name in at least five different typefaces. Experiment with various forms and shapes to see how they interact with the typography.
