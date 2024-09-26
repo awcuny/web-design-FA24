@@ -16,6 +16,8 @@ Your homework is your midterm! It is due on October 25, and you will present you
 Please watch:
 
 - [Prof Danne's Week 6 video on YouTube](https://www.youtube.com/watch?v=nejIoBXPLTM&t=2s)
+- [Prof Antonius's Review on basic HTML](https://www.loom.com/share/b3542c6b2c06451698294d0f5193fff7?sid=2353cf84-6b3e-4c7e-ab10-1bf033a78319)
+- [Prof Antonius making simple site on Glitch Review](https://www.loom.com/share/c0947eb3267c42dd8cdfc87d310a5c46?sid=a97ee60b-bf6d-4354-8f5b-f1eb77c0a5bc)
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week06/webdesign_week06_v2.pdf)
