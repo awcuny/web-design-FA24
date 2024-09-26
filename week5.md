@@ -21,6 +21,6 @@ There is an in-class as well as a homework assignment, which you can find below.
 ### Homework
 1. Select one of your homepage designs as your final design. Make any necessary refinements to it based on the feedback you received in class today. Complete the secondary page designs based on the selected homepage design. Do a design for each unique secondary or tertiary pages (i.e. About, Portfolio, Contact, an individual project detail page, etc.). Post your final designs to your blog.
 2. Start preparing your midterm presentations and post your progress on the blog.
-3. Read Chapter 1 (Structure) of the HTML & CSS book.
+3. Read Chapters 1 - 4 of the HTML & CSS book.
 
 [back](./)
