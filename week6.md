@@ -28,7 +28,7 @@ Please watch:
 ### In-Class Assignment
 Watch the lecture video. Get started on a document that lists all major dimensions an proportions in your design as pixels. Put together a list of all the typefaces, type sizes and colors that you will use in your design. Create a Photoshop file for all the images you will have on your website. Write down how you will organize your files for all your images and code.
 
-### Homework (Midterm)
+### Midterm
 On October 25, we will have our midterm presentations. Please put together a presentation that has at least one slide that covers all of the below. Export your presentation as a PDF and share it on the Slack channel. Be prepared to present it live on Zoom on October 25.
 
 - Description of your website
