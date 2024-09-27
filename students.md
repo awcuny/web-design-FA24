@@ -19,9 +19,8 @@ Below are the students in the class and their blog links
 - [H E's blog](https://medium.com/@he.mandiv43)
 - [Connie's blog](https://conniemenenendez.wordpress.com/)
 - [Aasha's blog](https://medium.com/@aasha.mukhtar35)
-- Mallika - no blog yet
+- [Mallika's blog](https://medium.com/@mallika1267)
 - [Zhuoyao's blog](https://zhuoyaodesn214blog.wordpress.com/)
-- [Matthew's blog](https://webdesignblog16.wordpress.com/category/uncategorized/)
 - [Benjamin's blog](https://medium.com/@byuen1997)
 
 [back](./)
