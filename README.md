@@ -24,6 +24,7 @@ Class times: Fridays, 10:00 am - 01:50 pm
 - Week 9, November 8
 - Week 10, November 15
 - Week 11, November 22
+- Week 12, November 29 (This is a Wednesday but classes meet on a Friday schedule)
 - Thanksgiving, November 29 (no class)
 - Week 13, December 6
 - Week 14, December 13, Final Class [Live Zoom Call](https://us02web.zoom.us/j/88550250169?pwd=aarkIEWL6fSN06XbLaBQyGsiloIFtB.1)
