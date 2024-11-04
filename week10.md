@@ -33,9 +33,7 @@ Apply what we learned today by updating your glitch project you worked on three 
 1. Post the link to your updated glitch project in a blog post.
 2. Begin working on your final website! Start writing the HTML and CSS for your front page. Get as far as you can, starting with your grid layout.
 3. Post the link to your first attempt at your website in a blog post. Write about your experience attempting to make your website front page on glitch. Come to class next week with questions!
-4. Visit and play with at least two experiments from this site: https://experiments.withgoogle.com/collection/chrome
-Describe your experience playing with the experiments in a blog post.
-5. Read the following chapters:
+4. Read the following chapters:
 - Chapter 17: HTML5 Layout
 - Chapter 19: Practical Information
 
