@@ -35,6 +35,7 @@ Create a very simple website using flexbox. You can use the following as a templ
 
 1. Keep working on your final website! Start writing the HTML and CSS for your secondary pages. Get as far as you can, starting with your grid layout.
 2. Post updates on your website on your blog! Be prepared to come to class next week ready to finish your website.
-
+3. Visit and play with at least two experiments from this site: https://experiments.withgoogle.com/collection/chrome
+Describe your experience playing with the experiments in a blog post.
 
 [back](./)
