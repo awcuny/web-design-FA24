@@ -14,7 +14,7 @@ During this class, we will begin styling our websites using Cascading StyleSheet
 - typography
 - boxes.
 
-The readings will really help with the second part of the semester - make sure you have caught up! We should be up to Chapter 13 in the textbook by now, and up to chapter 17 by next week!
+The readings will really help with the second part of the semester - make sure you have caught up! We should be up to Chapter 13 in the textbook by now, and up to chapter 16 by next week!
 
 ### Lecture Videos
 Please watch:
@@ -42,6 +42,5 @@ Read the following chapters:
 - Chapter 14: Lists, Tables & Forms
 - Chapter 15: Layout
 - Chapter 16: Images
-- Chapter 17: HTML5 Layout
 
 [back](./)
