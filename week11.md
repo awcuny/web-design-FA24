@@ -9,12 +9,7 @@ We will be meeting in our [Private Slack channel](https://join.slack.com/t/qc-de
 
 This lecture covers a few HTML and CSS frameworks that you can use to make websites instead of building everything from scratch:
 
-- [HTML5 Boilerplate](https://html5boilerplate.com/)
-- [960gs](https://github.com/nathansmith/960-Grid-System/tree/master/code)
-- [Bootstrap](https://getbootstrap.com/)
-- [Foundation](http://foundation.zurb.com/)
-
-We will alos go over how to program responsive websites using CSS that works well on mobile phones and tablets
+We will also go over how to program responsive websites using CSS that works well on mobile phones and tablets
 
 ### Lecture Videos
 Please watch:
@@ -23,8 +18,12 @@ Please watch:
 
 ### Resources
 1. [Professor Danne Woo's lecture slides](https://teaching-files.s3.us-east-2.amazonaws.com/webdesign/Week10/webdesign_week10.pdf)
-2. [In-Class Glitch Example](https://glitch.com/edit/#!/satisfying-rain-odometer)
-3. [In-Class Layout Example](https://glitch.com/edit/#!/noisy-invincible-adjustment?path=index.html%3A1%3A0)
+2. Frameworks: 
+
+- [HTML5 Boilerplate](https://html5boilerplate.com/)
+- [960gs](https://github.com/nathansmith/960-Grid-System/tree/master/code)
+- [Bootstrap](https://getbootstrap.com/)
+- [Foundation](http://foundation.zurb.com/)
 
 ### In-Class Assignment
 
